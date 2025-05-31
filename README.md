@@ -1,13 +1,7 @@
 ## Howdy 👋
-- 🌱 I’m currently learning German, python and nothing more
-- 😄 Pronouns: He/Him
+Hey, my name is César but y'all can call me RED! I am working in a alternative of GameJolt called EDOBOLT, i live in Texas 2.0 (Northeast of Mexico) and thats all, hope y'all have a nice day
 <!--
 **Cesar-Gabriel/Cesar-Gabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on some shit and neoliberalism
-- 💬 Ask me about nothing
-- 📫 How to reach me: reaching me
-- ⚡ Fun fact: I was born with a clown hat
-  
