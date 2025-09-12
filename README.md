@@ -2,3 +2,7 @@
 
 
 \^o^/
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Willaw-Corona)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willaw-Corona)](https://github.com/anuraghazra/github-readme-stats)
