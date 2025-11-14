@@ -9,7 +9,7 @@
 ```
 A silly ~~mexican~~ northern who wants to start HRT in a ghost town
 
-Currently using Arch Linux :P
+Currently using Debian as a daily driver :P
 
 The languages that i know is Python, HTML, CSS and currently learning Rust 
 
