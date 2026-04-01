@@ -14,7 +14,6 @@ Currently using Arch as a daily driver :P
 The languages that i know is Python, HTML, CSS and currently learning Rust 
 
 [![Willaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=Willaw-Corona)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willaw-Corona)](https://github.com/anuraghazra/github-readme-stats)
 
 And that would be all
